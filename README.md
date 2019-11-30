@@ -2,25 +2,22 @@
 
 Aplicativo de uma calculadora de IMC criado para disciplina de Programação Mobile.
 
-Tutorial de criação deste app: http://bit.ly/2Zry7Uh
-
 <p align="center">
-    <img src="https://miro.medium.com/max/1440/1*VzcayMW3lUkbyc9DRSHcGA.png" weight="800"/>
+    <img src="https://github.com/kleberandrade/calculadora-imc-aulas-flutter/blob/master/images/screenshot_1.png" height="400"/>
+    <img src="https://github.com/kleberandrade/calculadora-imc-aulas-flutter/blob/master/images/screenshot_2.png" height="400"/>
+    <img src="https://github.com/kleberandrade/calculadora-imc-aulas-flutter/blob/master/images/screenshot_3.png" height="400"/>
 </p>
-
-## Como clonar e importar
--   Faça um fork do projeto
--   Abra o terminal do Visual Studio Code
--   Digite (troque kleberandrade pelo nome do seu usuários): git clone https://github.com/kleberandrade/calculadora-imc-aulas-flutter calculadora_imc
 
 ## Desafio para aula
 
-*   Adicionar botões (Toggle ou Radio button) para escolha de gênero ([masculino](https://indicedemassacorporal.com/movel/calculo-imc-masculino.html) / [feminino](https://indicedemassacorporal.com/movel/calculo-imc-feminino.html));
-*   Corrigir o calculo de acordo com o gênero (masculino e feminino);
-*   Criar um classe Pessoa com os atributos (peso, altura e gênero), criar métodos para calcular IMC e classificar;
-*   Refatorar o código do aplicativo para utilizar a classe Pessoa;
-*   Aplicar uma escala de cores para o resultado da classificação do IMC;
-*   Aumentar o texto do resultado do IMC (número) e também colocar em negrito.
+Nome: Marcelo Benedito, R.A.: 160002096
+
+* OK - Adicionar botões (Toggle ouRadio button) para escolha de gênero ([masculino](https://indicedemassacorporal.com/movel/calculo-imc-masculino.html) / [feminino](https://indicedemassacorporal.com/movel/calculo-imc-feminino.html));
+* OK - Corrigir o calculo de acordo com o gênero (masculino e feminino);
+* OK - Criar um classe Pessoa com os atributos (peso, altura e gênero), criar métodos para calcular IMC e classificar;
+* OK - Refatorar o código do aplicativo para utilizar a classe Pessoa;
+* OK - Aplicar uma escala de cores para o resultado da classificação do IMC;
+* OK - Aumentar o texto do resultado do IMC (número) e também colocar em negrito.
 
 ## Licença
 
